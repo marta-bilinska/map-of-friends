@@ -1,0 +1,46 @@
+div.title {
+    text-align: center;
+    color: darkslategray;
+    margin: 0.5em;
+    background-color: antiquewhite;
+    padding: 1.5em;
+    font-size: larger;
+}
+
+body {
+    background-color: #c4c4c4;
+}
+
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: darkslategray;
+    margin: 0.5em;
+    font-weight:normal;
+}
+
+h1 {
+    text-align: center;
+    color: darkslategray;
+    margin: 0.5em;
+}
+
+div.entering_input {
+    margin: 6.5em;
+}
+
+input.user-input {
+    height : 30px
+}
+button {
+    size: 3em;
+    background-color: antiquewhite;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
